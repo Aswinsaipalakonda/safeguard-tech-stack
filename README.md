@@ -75,7 +75,7 @@ To deliver a robust, real-time, and highly scalable safety monitoring system for
 
 ---
 
-## 💡 Why This Stack Wins (Jury Pitch Points)
+## 💡 Why This Stack
 
 1. **True Scalability**: Django + Postgres can scale to handle thousands of hardware telemetry logs a minute.
 2. **Millisecond Real-Time**: Standard apps use HTTP. We use _WebSockets_ to ensure life-saving alerts happen instantly.
